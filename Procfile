@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi --log-file -
+worker: owoinator_main.py

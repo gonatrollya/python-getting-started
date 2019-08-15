@@ -1,1 +1,1 @@
-worker: owoinator_main.py
+worker: python owoinator_main.py
